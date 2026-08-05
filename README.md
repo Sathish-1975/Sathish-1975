@@ -1,195 +1,164 @@
-<!-- ========================================= -->
-<!--        GitHub Profile README              -->
-<!--        Author : Sathish D                 -->
-<!-- ========================================= -->
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Sathish D**
 
-<div align="center">
+### 💻 Full Stack Developer | Computer Science Engineer | AI & Machine Learning Enthusiast
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Sathish%20D&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Sathish D
-
-### 💻 Computer Science Engineer | Full Stack Developer | AI/ML Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Learner;Always+Learning+Something+New" />
-
-<br>
-
-<a href="https://github.com/Sathish-1975">
-<img src="https://img.shields.io/github/followers/Sathish-1975?label=Followers&style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/Sathish-1975">
-<img src="https://img.shields.io/github/stars/Sathish-1975?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Sathish-1975&style=for-the-badge&color=blue"/>
-
-</div>
+<p align="left">
+  <a href="https://github.com/Sathish-1975">
+    <img src="https://img.shields.io/badge/GitHub-Sathish--1975-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:phenomena474@gmail.com">
+    <img src="https://img.shields.io/badge/Email-phenomena474@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sathish-dharmendra-9b3303310">
+    <img src="https://img.shields.io/badge/LinkedIn-Sathish%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+I'm a passionate Computer Science Engineer who enjoys building scalable web applications, AI-powered solutions, and user-focused software. I believe in writing clean, maintainable code while continuously learning modern technologies and development practices.
 
-🎓 Computer Science Engineering Student passionate about building scalable software.
-
-💻 Full Stack Developer specializing in modern web applications.
-
-🤖 AI & Machine Learning enthusiast developing intelligent solutions.
-
-🌱 Constant learner exploring new technologies every day.
-
-🚀 Passionate about solving real-world problems through technology.
-
-🔥 Interested in Open Source contributions and collaborative development.
-
-☁️ Exploring Cloud Computing and DevOps.
-
-🎯 Goal:
-Build software that creates real impact.
+I enjoy solving real-world problems through technology and love collaborating on innovative projects that create meaningful impact.
 
 ---
 
-# 🌐 Connect With Me
+## 💼 Technical Skills
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### AI / Machine Learning
+
+* Machine Learning
+* Deep Learning
+* TensorFlow
+* Keras
+* CNN
+* LSTM
+* Pandas
+* NumPy
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎬 ClipConnect
+
+A full-stack freelance marketplace connecting clients with professional video editors featuring secure authentication, project workflow, payments, admin analytics, and editor management.
+
+---
+
+### 🌱 Smart Sericulture Decision Support System
+
+AI-powered platform for silkworm disease prediction, mulberry yield prediction, cocoon price forecasting, and disease risk analysis using Machine Learning.
+
+---
+
+### 🌾 Krishi Mithra
+
+Smart agriculture platform that helps farmers identify crop diseases and receive intelligent treatment recommendations using Artificial Intelligence.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sathish-1975&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish-1975&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-1975&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish-1975&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sathish-1975&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+
 <a href="https://github.com/Sathish-1975">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sathish-dharmendra-9b3303310">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="mailto:phenomena474@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="45"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💡 Quote
 
-## 🚀 Frontend
+> **"Great software isn't just built with code—it's built with curiosity, consistency, and a commitment to solving real-world problems."**
+
+---
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://komarev.com/ghpvc/?username=Sathish-1975&style=for-the-badge&color=0e75b6"/>
 
 </p>
-
----
-
-## ⚙️ Backend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
-
----
-
-## 🗄️ Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-- TensorFlow
-- Keras
-- Scikit-Learn
-- Pandas
-- NumPy
-- OpenCV
-- Deep Learning
-- CNN
-- Machine Learning
-
----
-
-## 🛠️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
----
-
-# 🌟 What I Believe
-
-> **"Technology becomes meaningful when it solves real-world problems and empowers people."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
