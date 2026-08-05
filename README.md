@@ -29,13 +29,13 @@ I enjoy solving real-world problems through technology and love collaborating on
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ### Backend
@@ -64,7 +64,7 @@ I enjoy solving real-world problems through technology and love collaborating on
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,render,vercel,huggingface" />
 </p>
 
 ---
@@ -75,13 +75,6 @@ I enjoy solving real-world problems through technology and love collaborating on
 
 A full-stack freelance marketplace connecting clients with professional video editors featuring secure authentication, project workflow, payments, admin analytics, and editor management.
 
----
-
-### 🌱 Smart Sericulture Decision Support System
-
-AI-powered platform for silkworm disease prediction, mulberry yield prediction, cocoon price forecasting, and disease risk analysis using Machine Learning.
-
----
 
 ### 🌾 Krishi Mithra
 
