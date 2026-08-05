@@ -1,56 +1,50 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Sathish D**
+# 👋 Hi, I'm **Sathish D**
 
-### 💻 Full Stack Developer | Computer Science Engineer | AI & Machine Learning Enthusiast
+### 💻 Full Stack Developer • Computer Science Engineer • AI & Machine Learning Enthusiast
 
-<p align="left">
-  <a href="https://github.com/Sathish-1975">
-    <img src="https://img.shields.io/badge/GitHub-Sathish--1975-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:phenomena474@gmail.com">
-    <img src="https://img.shields.io/badge/Email-phenomena474@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sathish-dharmendra-9b3303310">
-    <img src="https://img.shields.io/badge/LinkedIn-Sathish%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+> *Building scalable software, intelligent applications, and impactful digital experiences.*
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a passionate Computer Science Engineer who enjoys building scalable web applications, AI-powered solutions, and user-focused software. I believe in writing clean, maintainable code while continuously learning modern technologies and development practices.
+I'm a Computer Science Engineering student passionate about developing modern web applications and AI-driven solutions. I enjoy transforming complex ideas into practical, scalable software while following clean coding practices and industry standards.
 
-I enjoy solving real-world problems through technology and love collaborating on innovative projects that create meaningful impact.
+My interests include **Full Stack Development, Artificial Intelligence, Machine Learning, Cloud Technologies, and Software Engineering**. I continuously explore new technologies and enjoy contributing to projects that solve real-world challenges.
 
 ---
 
-## 💼 Technical Skills
+# 💼 Technical Skills
 
-### Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
-</p>
+* Python
+* Java
+* JavaScript
+* HTML5
+* CSS3
 
-### Frontend
+### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
+* React.js
+* Tailwind CSS
+* Vite
+* Bootstrap
 
-### Backend
+### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
-</p>
+* Flask
+* Django
+* Node.js
+* REST APIs
 
-### Database
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+* MySQL
+* MongoDB
+* Firebase
 
-### AI / Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 * Machine Learning
 * Deep Learning
@@ -61,97 +55,56 @@ I enjoy solving real-world problems through technology and love collaborating on
 * Pandas
 * NumPy
 
-### Tools & Technologies
+### 🛠️ Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,render,vercel,huggingface" />
-</p>
+* Git
+* GitHub
+* VS Code
+* Postman
+* Vercel
+* Linux
+* Hugging Face
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🎬 ClipConnect
+## 🎬 ClipConnect
 
-A full-stack freelance marketplace connecting clients with professional video editors featuring secure authentication, project workflow, payments, admin analytics, and editor management.
-
+A modern freelance marketplace connecting clients with professional video editors through secure authentication, project management, workflow automation, payment tracking, notifications, and an analytics-driven admin dashboard.
 
 ### 🌾 Krishi Mithra
 
-Smart agriculture platform that helps farmers identify crop diseases and receive intelligent treatment recommendations using Artificial Intelligence.
+An AI-powered agriculture platform that assists farmers by detecting crop diseases and providing intelligent recommendations to improve crop productivity and sustainability.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sathish-1975&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish-1975&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-1975&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+> 📈 Displays overall GitHub activity, contribution streak, language usage, and repository insights.
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish-1975&theme=tokyo-night&hide_border=true"/>
-
-</p>
+> Shows daily coding activity and contribution history across repositories.
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌍 Connect With Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sathish-1975&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
+* 📧 **Email:** [phenomena474@gmail.com](mailto:phenomena474@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/sathish-dharmendra-9b3303310
+* 💻 **GitHub:** https://github.com/Sathish-1975
 
 ---
 
-## 🌍 Connect With Me
+# 💡 Philosophy
 
-<p align="left">
-
-<a href="https://github.com/Sathish-1975">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sathish-dharmendra-9b3303310">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:phenomena474@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="45"/>
-</a>
-
-</p>
+> **"Great software is built through curiosity, continuous learning, collaboration, and a commitment to creating solutions that make a meaningful impact."**
 
 ---
 
-## 💡 Quote
+### ⭐ Thanks for visiting my GitHub profile!
 
-> **"Great software isn't just built with code—it's built with curiosity, consistency, and a commitment to solving real-world problems."**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sathish-1975&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+Feel free to explore my repositories, contribute to open-source projects, or connect with me for collaborations and innovative opportunities.
