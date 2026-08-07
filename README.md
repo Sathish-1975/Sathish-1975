@@ -81,13 +81,18 @@ An AI-powered agriculture platform that assists farmers by detecting crop diseas
 
 # 📊 GitHub Statistics
 
-> 📈 Displays overall GitHub activity, contribution streak, language usage, and repository insights.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathish-1975&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-1975&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-> Shows daily coding activity and contribution history across repositories.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish-1975&theme=github-dark&hide_border=true" width="100%"/>
+</p>
 
 ---
 
