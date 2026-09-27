@@ -76,7 +76,7 @@ A modern freelance marketplace connecting clients with professional video editor
 ### 🌾 Krishi Mithra
 
 An AI-powered agriculture platform that assists farmers by detecting crop diseases and providing intelligent recommendations to improve crop productivity and sustainability.
-
+https://crop-disease-frontend-nu.vercel.app/
 ---
 
 # 📊 GitHub Statistics
